@@ -7,7 +7,7 @@ export const Main = () => {
 
   return (
     <div className="container-main">
-      <h1>Productos de la Tienda</h1>
+      <h1 className="titulo">Productos de la Tienda</h1>
       <ul className="contain-imagen">
         {productos.map((products, index) => (
           <li key={index}>

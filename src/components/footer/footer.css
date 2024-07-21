@@ -5,5 +5,11 @@ height: 30vh;
 bottom: 0;
 background-color: red;
 
-
 }
+
+@media (max-width: 768px) {
+    .container-footer {
+        height: 20vh;
+
+    }
+  }

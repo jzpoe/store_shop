@@ -3,3 +3,10 @@
     height: 50vh;
     background-color: orange;
 }
+
+@media (max-width: 768px) {
+    .container-header {
+        height: 40vh;
+
+    }
+  }
