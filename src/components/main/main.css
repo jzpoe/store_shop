@@ -1,0 +1,54 @@
+.container-main {
+    padding: 20px;
+    max-width: 1200px; /* Limita el ancho máximo del contenedor */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+  }
+  
+  /* Estilos para la lista de productos */
+  .contain-imagen {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los elementos se envuelvan cuando no hay espacio suficiente */
+    list-style: none;
+    padding: 0;
+    margin: -10px; /* Ajusta el margen negativo para equilibrar el margen positivo de los elementos */
+  }
+  
+  /* Estilos para cada tarjeta de producto */
+  .contain-imagen li {
+    flex: 1 1 calc(33.333% - 20px); /* Establece el ancho de cada tarjeta, resta los márgenes */
+    box-sizing: border-box; /* Asegura que el padding y el border no aumenten el ancho total */
+    margin: 10px; /* Espacio entre tarjetas */
+    border: 1px solid #ddd; /* Bordes de las tarjetas */
+    border-radius: 5px; /* Bordes redondeados */
+    padding: 10px; /* Espacio interno */
+    background-color: #f9f9f9; /* Fondo claro */
+    transition: transform 0.2s; /* Añade una transición suave al hover */
+  }
+  
+  /* Efecto hover en las tarjetas */
+  .contain-imagen li:hover {
+    transform: scale(1.05); /* Agranda ligeramente la tarjeta al pasar el cursor */
+  }
+  
+  /* Estilos para las imágenes */
+  .contain-imagen img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px; /* Bordes redondeados para las imágenes */
+    display: block;
+    margin-bottom: 10px; /* Espacio debajo de la imagen */
+  }
+  
+  /* Estilos para los títulos y párrafos */
+  .contain-imagen h2 {
+    font-size: 1.2rem; /* Tamaño del título */
+    margin: 0 0 10px; /* Espacio debajo del título */
+  }
+  
+  .contain-imagen p {
+    margin: 5px 0; /* Espacio entre párrafos */
+  }
+
+  .h1, h2, p{
+    color: black;
+  }

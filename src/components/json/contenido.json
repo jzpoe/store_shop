@@ -1,0 +1,142 @@
+[
+    {
+      "name": "Camiseta Básica",
+      "description": "Camiseta de algodón, cómoda y suave.",
+      "price": 15.99,
+      "color": "Blanco",
+      "image_url": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "name": "Jeans Clásicos",
+      "description": "Jeans azul clásico de corte recto.",
+      "price": 39.99,
+      "color": "Azul",
+      "image_url": "https://picsum.photos/200/300?random=2"
+    },
+    {
+      "name": "Zapatillas Deportivas",
+      "description": "Zapatillas cómodas para correr.",
+      "price": 49.99,
+      "color": "Negro",
+      "image_url": "https://picsum.photos/200/300?random=3"
+    },
+    {
+      "name": "Chaqueta de Cuero",
+      "description": "Elegante chaqueta de cuero auténtico.",
+      "price": 129.99,
+      "color": "Negro",
+      "image_url": "https://picsum.photos/200/300?random=4"
+    },
+    {
+      "name": "Bolso de Mano",
+      "description": "Bolso de mano de cuero con múltiples compartimentos.",
+      "price": 59.99,
+      "color": "Marrón",
+      "image_url": "https://picsum.photos/200/300?random=5"
+    },
+    {
+      "name": "Reloj de Pulsera",
+      "description": "Reloj de pulsera con correa de cuero.",
+      "price": 89.99,
+      "color": "Negro",
+      "image_url": "https://picsum.photos/200/300?random=6"
+    },
+    {
+      "name": "Gorra Deportiva",
+      "description": "Gorra ajustable de algodón.",
+      "price": 19.99,
+      "color": "Rojo",
+      "image_url": "https://picsum.photos/200/300?random=7"
+    },
+    {
+      "name": "Pantalones Cortos",
+      "description": "Pantalones cortos de mezclilla para verano.",
+      "price": 25.99,
+      "color": "Azul",
+      "image_url": "https://picsum.photos/200/300?random=8"
+    },
+    {
+      "name": "Vestido de Verano",
+      "description": "Vestido ligero y fresco para el verano.",
+      "price": 39.99,
+      "color": "Amarillo",
+      "image_url": "https://picsum.photos/200/300?random=9"
+    },
+    {
+      "name": "Sombrero de Paja",
+      "description": "Sombrero de paja ideal para el sol.",
+      "price": 14.99,
+      "color": "Beige",
+      "image_url": "https://picsum.photos/200/300?random=10"
+    },
+    {
+      "name": "Bufanda de Lana",
+      "description": "Bufanda de lana para el invierno.",
+      "price": 24.99,
+      "color": "Gris",
+      "image_url": "https://picsum.photos/200/300?random=11"
+    },
+    {
+      "name": "Gafas de Sol",
+      "description": "Gafas de sol polarizadas.",
+      "price": 29.99,
+      "color": "Negro",
+      "image_url": "https://picsum.photos/200/300?random=12"
+    },
+    {
+      "name": "Cinturón de Cuero",
+      "description": "Cinturón de cuero ajustable.",
+      "price": 34.99,
+      "color": "Marrón",
+      "image_url": "https://picsum.photos/200/300?random=13"
+    },
+    {
+      "name": "Pijama de Algodón",
+      "description": "Pijama cómodo de algodón.",
+      "price": 29.99,
+      "color": "Rosa",
+      "image_url": "https://picsum.photos/200/300?random=14"
+    },
+    {
+      "name": "Sudadera con Capucha",
+      "description": "Sudadera con capucha y bolsillo frontal.",
+      "price": 49.99,
+      "color": "Gris",
+      "image_url": "https://picsum.photos/200/300?random=15"
+    },
+    {
+      "name": "Botas de Invierno",
+      "description": "Botas de invierno impermeables.",
+      "price": 79.99,
+      "color": "Negro",
+      "image_url": "https://picsum.photos/200/300?random=16"
+    },
+    {
+      "name": "Traje Formal",
+      "description": "Traje formal de dos piezas.",
+      "price": 199.99,
+      "color": "Azul Marino",
+      "image_url": "https://picsum.photos/200/300?random=17"
+    },
+    {
+      "name": "Camiseta de Rayas",
+      "description": "Camiseta de algodón con rayas.",
+      "price": 19.99,
+      "color": "Rojo y Blanco",
+      "image_url": "https://picsum.photos/200/300?random=18"
+    },
+    {
+      "name": "Falda Plisada",
+      "description": "Falda plisada de longitud media.",
+      "price": 35.99,
+      "color": "Negro",
+      "image_url": "https://picsum.photos/200/300?random=19"
+    },
+    {
+      "name": "Camiseta Deportiva",
+      "description": "Camiseta transpirable para deportes.",
+      "price": 22.99,
+      "color": "Azul",
+      "image_url": "https://picsum.photos/200/300?random=20"
+    }
+  ]
