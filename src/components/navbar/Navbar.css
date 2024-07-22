@@ -1,0 +1,44 @@
+
+.container-navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    z-index: 1000;
+  }
+  
+  .navbar-item {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar-link {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-link.has-products {
+    color: red;
+  }
+  
+  .navbar-icon {
+    margin-right: 8px;
+  }
+  
+  @media (max-width: 600px) {
+    .navbar-link {
+      font-size: 16px;
+    }
+  
+    .navbar-icon {
+      margin-right: 5px;
+    }
+  }
